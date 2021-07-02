@@ -1,0 +1,17 @@
+.line{
+    background-color: black;
+    width: 70px;
+    height: 7px;
+    margin: 8px auto;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+body{
+  text-align: center;
+}
+#Hobbie{
+    background: linear-gradient(#610087 0%,#b500a0 100%);
+}
